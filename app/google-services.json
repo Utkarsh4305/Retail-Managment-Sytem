@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "7994108157",
+    "firebase_url": "https://inventory-management-2af88-default-rtdb.firebaseio.com",
+    "project_id": "inventory-management-2af88",
+    "storage_bucket": "inventory-management-2af88.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7994108157:android:87392c1f84e914c52b7694",
+        "android_client_info": {
+          "package_name": "com.example.finishedgoodmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCneNIQpLhEy-sGxFE-PdRaIYZaORZVQhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7994108157:android:28c2629c39e036e32b7694",
+        "android_client_info": {
+          "package_name": "com.example.inventorymanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCneNIQpLhEy-sGxFE-PdRaIYZaORZVQhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
